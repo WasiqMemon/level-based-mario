@@ -1,0 +1,21 @@
+brick	2	8
+brick	3	7
+brick	4	6
+brick	6	5
+brick	8	4
+itemblock	6	2
+brick	9	3
+brick	12	3
+brick	15	3
+brick	16	4
+brick	18	5
+itemblock	18	2
+brick	20	6
+brick	21	7
+brick	22	8
+spiny	2	9
+spiny	7	9
+spiny	11	9
+spiny	15	9
+spiny	19	9
+

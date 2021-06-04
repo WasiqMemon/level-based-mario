@@ -1,0 +1,13 @@
+brick	10	8
+brick	11	7
+brick	12	7
+brick	13	7
+brick	14	7
+brick	15	7
+brick	16	8
+itemblock	12	4
+itemblock	13	4
+itemblock	14	4
+itemblock	10	5
+itemblock	16	5
+goombas	21	9

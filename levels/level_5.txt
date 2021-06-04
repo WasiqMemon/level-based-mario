@@ -1,0 +1,13 @@
+brick	5	7
+brick	6	7
+brick	7	7
+hammer	5	6
+goombas	4	9
+brick	13	8
+brick	13	9
+spiny	14	9
+brick	17	8
+brick	17	9
+spiny	18	9
+brick	21	8
+brick	21	9

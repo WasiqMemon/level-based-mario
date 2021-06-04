@@ -1,0 +1,12 @@
+brick	9	8
+brick	10	7
+itemblock	11	7
+brick	12	7
+brick	13	8
+goombas	5	9
+brick	18	8
+brick	19	7
+brick	20	7
+brick	21	7
+brick	22	8
+spiny	19	9

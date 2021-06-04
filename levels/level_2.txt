@@ -1,0 +1,11 @@
+brick	5	8
+itemblock	6	7
+itemblock	7	7
+itemblock	8	7
+brick	9	8
+brick	16	7
+brick	17	7
+itemblock	18	7
+brick	19	8
+brick	15	8
+hammer	16	6		
