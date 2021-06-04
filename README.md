@@ -1,4 +1,4 @@
-# CS 224 Object Oriented Programming and Design Methodologies, Fall 2020
+# CS 224 OOP and Design Methodologies, Fall 2020
 # Final Project: Level Based Mario
 
 The final project for this course required the development of a game using C++ and SDL 2.0.
