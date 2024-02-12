@@ -31,7 +31,7 @@ Every level has two levelparts (screens). Once you cross to another level, you c
 - Level 03: It is placed in a castle with hard difficulty.
 
 ### SAVE and LOAD:
-Whenever you cross a level, the system saves your lives' and coins' count in a text file.
+Whenever you cross a level, the system saves the count for your lives and coins in a text file.
 Even if you quit the game or die in that level, pressing "Load" button next time on start screen will take you to that particular level.
 
 ### Gameplay:
